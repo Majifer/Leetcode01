@@ -1,0 +1,16 @@
+
+
+
+  
+
+
+   Array 
+
+   foreach
+
+   mostrar los elementos de casa array
+
+
+    Valor inicial de 0
+
+    reduce 
